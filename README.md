@@ -1,4 +1,4 @@
-# alfa-txpower-keeper
+# ALFA-txpower-keeper
 
 Production-ready tool that keeps the ALFA AWUS036ACHM USB Wi-Fi adapter at the
 target TX power level on Linux.
