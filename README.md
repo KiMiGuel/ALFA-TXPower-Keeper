@@ -17,7 +17,7 @@
  `--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--' 
 ```
 
-# ALFA-TXpower-Keeper
+# ALFA-TXPower-Keeper
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
 [![Platform: Linux](https://img.shields.io/badge/platform-linux-lightgrey.svg)](https://www.kernel.org/)
