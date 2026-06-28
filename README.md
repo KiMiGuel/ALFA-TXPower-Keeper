@@ -103,15 +103,14 @@ sudo alfa-txpower-keeper oneshot -v
 ```
 
 ### Command-line options
-
 | Option | Default | Description |
 |--------|---------|-------------|
-| `-i, --interface` | auto-discover | Optional interface name for `iw` fallback |
-| `-t, --target-dbm` | `20` | Target TX power in dBm |
-| `--interval` | `3` | Daemon check interval in seconds |
-| `--eeprom-offset` | `0x52` | EEPROM offset to patch |
-| `--eeprom-value` | `0x1e` | EEPROM value to write |
-| `--max-retries` | `30` | Retries when waiting for adapter/phy |
+| -i, --interface | auto-discover | Optional interface name for iw fallback |
+| -t, --target-dbm | 20 | Target TX power in dBm |
+| --interval | 3 | Daemon check interval in seconds |
+| --eeprom-offset | 0x52 | EEPROM offset to patch |
+| --eeprom-value | 0x1e | EEPROM value to write |
+| --max-retries | 30 | Retries when waiting for adapter/phy |
 
 ## Uninstallation
 
